@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+padding: 11px 14px;
+display: block;
+margin-top: 9px;
+font-size: 16px;
+color: blue;
+background-color: rgb(201, 201, 223);
+cursor: pointer;
+border-radius: 4px;
+border: none;
+outline: none;
+}
+
+h1{
+    color: blue;
+    margin-top: 90px;
+}
+
+li{
+    list-style: none;
+}
+
+h4,span{
+    font-weight: 200;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
